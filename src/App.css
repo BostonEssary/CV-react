@@ -1,0 +1,23 @@
+#root{
+  width: 100%;
+}
+
+button:hover {
+  background-color: rgb(97, 2, 97);
+  border: solid 1px limegreen !important;
+  transition: background-color .3s !important;
+}
+
+.section {
+  border: 2px solid limegreen;
+  border-radius: 20px;
+  padding: 2em;
+  margin: 2em;
+  max-width: 50%;
+}
+
+.field {
+  margin: 1em;
+  border-radius: 15em;
+  border: 1px solid lightblue;
+}
